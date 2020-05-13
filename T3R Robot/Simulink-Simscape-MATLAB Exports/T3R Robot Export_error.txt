@@ -1,0 +1,4 @@
+Constrained Instances: 'Part1 with coords-1', 'T3R Robot Assembly'
+Constraint Name: Coincident11
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
